@@ -1,16 +1,14 @@
-### Hi there 👋
+### Business Intelligence Consultant / Data Analyst
+Love to  explore the fascinating world of data together, where numbers dance, code sings, and stories unfold
 
-<!--
-**hhuy067/hhuy067** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+in/hoanghuydatadriven
+## Technical Skills 
+- Excell: Math Functions, Logical Functions, Lookup and Reference Functions
+- SQL: MySQL, PostgreSQL, Google BigQuery
+- Python: Pandas, NumPy, MatPlotLib, Seaborn
+- Power BI: DAX, Power Query, Data Modeling
 
-Here are some ideas to get you started:
+## Projects for sharing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
