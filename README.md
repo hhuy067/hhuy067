@@ -22,10 +22,6 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhuy067&repo=PowerBI-Global-Superstore&theme=shadow_blue" />
 </a>
-<a href="https://github.com/hhuy067/PowerBI-User-Churn-Analysis">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhuy067&repo=/PowerBI-User-Churn-Analysis&theme=shadow_blue" />
-</a>  
 <a href="https://github.com/hhuy067/RPAC-Costing-Analysis">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhuy067&repo=RPAC-Costing-Analysis&theme=shadow_blue" />
